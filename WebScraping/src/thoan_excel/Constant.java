@@ -1,0 +1,65 @@
+package thoan_excel;
+
+public class Constant {
+	public static final String Page_Number="Page#";
+	public static final String Year_From="Year From";
+	public static final String Year_To="Year To";
+	public static final String Make="Make";
+	public static final String Model="Model";
+	public static final String System_Type="System Type";
+//	public static final String A_TEK="A-TEK";
+//	public static final String BARNES="BARNES";
+//	public static final String HATA="HATA";
+//	public static final String HILLMAN="HILLMAN";
+//	public static final String HOWARD_KEYS="HOWARD KEYS";
+//	public static final String HYKO="HYKO";
+	public static final String EMERGENCY_KEY="EMERGENCY KEY";
+	public static final String PROX="PROX";
+	public static final String EKEY="E-KEY";
+	public static final String ILCO="ILCO";
+	public static final String JET="JET";
+	public static final String JMA="JMA";
+	public static final String KEYLINE="KEYLINE";
+//	public static final String LOCKCRAFT="LOCKCRAFT";
+	public static final String OEM="OEM";
+	public static final String OEM_COMPATIBLE="COMPATIBLE OEM";
+	public static final String OEM_Remote="OEM REMOTE";
+	public static final String OEM_PROX="OEM PROX";
+	public static final String OEM_FLIP="OEM FLIP";
+	public static final String OEM_Smart="OEM SMART";
+	public static final String OEM_Ekey="OEM E-KEY";
+	public static final String OEM_Key_blade="OEM KEY BLADE";
+	public static final String OEM_Roll_pin="OEM ROLL PIN";
+	public static final String PCB="PCB";
+	
+	public static final String OEM_Emergency="OEM EMERGENCY";
+	public static final String IC="IC";
+	public static final String STRATTEC_COMPATIBLE="COMPATIBLE STRATTEC";
+	public static final String STRATTEC="STRATTEC";
+	public static final String STRATTEC_REMOTE="STRATTEC REMOTE";
+//	public static final String WINZER="WINZER";
+//	public static final String ACCU="ACCU";
+//	public static final String ACCU_READER="ACCU-READER";
+//	public static final String BTR="BTR";
+//	public static final String EEZ_READER="EEZ READER";
+//	public static final String KOBRA="KOBRA";
+	public static final String LISHI="LISHI";
+	public static final String LISHI21="LISHI21";
+	public static final String MECHANICAL_KEY="MECHANICAL KEY";
+	public static final String CODE_SERIES="CODE SERIES";
+	public static final String MAX_KEYS="MAX KEYS";
+	public static final String TRANSPONDER="TRANSPONDER";
+	public static final String MASTER_TRANSPONDER_DATA="MASTER TRANSPONDER DATA";
+	public static final String VALET_TRANSPONDER_DATA="VALET TRANSPONDER DATA";
+	public static final String PAGE_2_DATA="PAGE 2 DATA";
+	public static final String TRANSPONDER_RE_USE="TRANSPONDER RE-USE";
+	public static final String FCC_COMPATIBLE="COMPATIBLE FCC";
+	public static final String FCC="FCC";
+	public static final String Remote="REMOTE";
+	public static final String Frequency="FREQUENCY";
+	public static final String newCol="newCol";
+	
+	public static final String SPLIT_MARK_COLON=":";
+	public static final String SPLIT_MARK_COLON_2=";";
+	public static final String SPLIT_MARK_COMMAS=",";
+}
